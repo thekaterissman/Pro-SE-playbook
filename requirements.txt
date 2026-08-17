@@ -1,0 +1,4 @@
+packaging 
+Django
+pyschopg2
+pytz
