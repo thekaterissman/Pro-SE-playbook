@@ -1,0 +1,7 @@
+packaging
+Django
+psycopg2-binary
+pytz
+trimesh[easy]
+pyglet
+fbxloader
