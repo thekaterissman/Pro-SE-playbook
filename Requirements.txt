@@ -1,0 +1,4 @@
+python_versionspace==3.9
+Django
+psycopg2-binary
+google-cloud-storage
